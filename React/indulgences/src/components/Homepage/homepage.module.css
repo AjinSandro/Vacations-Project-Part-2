@@ -1,0 +1,23 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+    object-fit:cover
+}
+
+.content {
+    text-align: center; /* Center text horizontally */
+    max-width: 600px; /* Limit the width of the text */
+    margin: 0 auto; /* Center the div itself */
+    padding: 20px; /* Add some padding */
+}
